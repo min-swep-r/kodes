@@ -13,5 +13,6 @@ public class Jogo {
     public static void main(String[] args) {
       System.out.println("Got mitt uns");
       System.out.println("test");
+      System.out.println("test");
     }
 }
