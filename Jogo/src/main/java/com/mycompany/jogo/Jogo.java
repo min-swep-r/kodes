@@ -9,15 +9,10 @@ package com.mycompany.jogo;
  * @author vjfr
  */
 public class Jogo {
-
+                                                //Construtor Default
     public static void main(String[] args) {
 
       System.out.println("Got mitt uns");
-      System.out.println("hold");
-      System.out.println("test");
-
-      System.out.println("Got mitt uns");
-      System.out.println("voltando");
 
     }
 }
