@@ -13,7 +13,7 @@ public class Jogo {
     public static void main(String[] args) {
       // o que a classe jogo tem que ter? funções de chamada?
       System.out.println("Got mitt uns");
-      //menu.options(); ????
+      // menu.options(); ????
 
     }
 }
